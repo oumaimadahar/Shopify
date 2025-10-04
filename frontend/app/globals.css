@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+  .header_top_icon_wrapper{
+    @apply  p-[8px] text-[14px] cursor-pointer hover:text-[#e3ac28] hover:bg-white
+  }
+}
